@@ -1,4 +1,4 @@
-# EB | Erick Bittencourt — Site Oficial
+# E B | Erick Bittencourt — Site Oficial
 
 Site institucional e comercial desenvolvido em **React + Vite + Tailwind CSS**, com animações 3D interativas, background dinâmico em Canvas 3D, cards com inclinação espacial e páginas dedicadas para cada serviço.
 
